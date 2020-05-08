@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  elevator: false
+  swimming_pool: false
+  balcony: false
+  parking: false
+  garage: false
+  garden: false
+  references: 
+
+two:
+  elevator: false
+  swimming_pool: false
+  balcony: false
+  parking: false
+  garage: false
+  garden: false
+  references: 
